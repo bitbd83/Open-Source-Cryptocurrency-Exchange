@@ -61,7 +61,7 @@ echo "export RAILS_ENV=production" >> ~/.bashrc
 source ~/.bashrc
 mkdir -p ~/peatio
 #git clone https://github.com/ctubio/Krypto-trading-bot.git ~/K
-git clone https://github.com/bitbd83/Open-Source-Cryptocurrency-Exchange.git ~/peatio/current
+git clone https://github.com/bitbd83/ose.git ~/peatio/current
 #git checkout testing01
 cd ~/peatio/current/
 pwd
