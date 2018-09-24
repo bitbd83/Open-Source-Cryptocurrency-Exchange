@@ -74,7 +74,7 @@ group :development, :test do
   gem 'factory_girl_rails', '>= 4.9.0'
   gem 'faker', '~> 1.4.3'
   gem 'mina'
-  gem 'mina-slack', github: 'maurodelazeri/mina-slack'
+  gem 'mina-slack', github: 'InfraexDev/mina-slack'
   gem 'meta_request', '>= 0.4.3'
   gem 'better_errors'
   gem 'binding_of_caller'
