@@ -16,6 +16,6 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.files       = Dir["{bin,lib}/**/*"] + ["README.markdown"]
 
-  s.add_runtime_dependency 'faye-websocket', '~> 0.9.2'
+  s.add_runtime_dependency 'faye-websocket', '>= 0.9.2', '< 0.12.0'
   s.add_development_dependency 'minitest', '~> 5.5.1'
 end
